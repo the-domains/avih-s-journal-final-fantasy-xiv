@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[Avih's Journal - Final Fantasy XIV -]]></title>
         <description><![CDATA[Avih's Journal - Final Fantasy XIV -]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/avih-s-journal-final-fantasy-xiv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 21:59:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jan 2016 22:03:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/avih-s-journal-final-fantasy-xiv/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined0db2d3dc-3ae9-4018-be35-96e5c2bcd25a/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/602c06ec-7d70-4c63-b6a0-b307e2281cc2.jpg">]]></description>
+            <link>https://thegrid.ai/avih-s-journal-final-fantasy-xiv/0db2d3dc-3ae9-4018-be35-96e5c2bcd25a/index.html</link>
             <guid isPermaLink="false">0db2d3dc-3ae9-4018-be35-96e5c2bcd25a</guid>
-            <pubDate>Thu, 21 Jan 2016 21:59:12 GMT</pubDate>
+            <pubDate>Thu, 21 Jan 2016 22:03:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
